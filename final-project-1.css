@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(240, 87, 95);
+}
+h1 {
+    text-shadow: 0 0 3px rgb(15, 15, 161);
+}
+
+h1 {
+    border-style: double;
+    border-width: 5px;
+}
+h2 {
+    border-style: double;
+    border-radius: 5px;
+    border-color: rgb(240, 87, 95);
+    
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 230px;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: rgb(162, 162, 175);
+}
+
+h1 {
+    font-family: Lucida;
+}
+p {
+    font-family: Courier;
+}
+h2 {
+    font-family: Courier;
+}
+
+
